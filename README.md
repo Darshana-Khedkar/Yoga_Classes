@@ -30,10 +30,11 @@ HTML, CSS, Javascript, MySQL, Php
 
 ### Step 3
 - Desing Approach
-1. Created Registration form, which takes AGE, Start_date, email and password.
-2. After submitting details, redirect to payment page.
-3. After payment, Login through email and password.
-4. View Details and Edit Batch timings in portal.
+1. Home page that container two pages Registration page and about page.
+2. Created Registration form, which takes AGE, Start_date, email and password.
+3. After submitting details, redirect to payment page.
+4. After payment, Login through email and password.
+5. View Details and Edit Batch timings in portal.
 
 ## Video Explaination
 [![Watch the video](https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8&w=1000&q=80)](https://drive.google.com/file/d/1SYrm_HWQxT9z5ivhQMfO2PY570FJwq0a/view?usp=share_link)
